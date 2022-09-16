@@ -1,4 +1,4 @@
-## Random-Color-Generator
+## Random Color Generator
 
 ### Project decription
 In this project, I created a random color generator that updates colors every time the browser gets refreshed. 
